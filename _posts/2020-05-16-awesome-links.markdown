@@ -7,34 +7,27 @@ categories: Tech Random
 ---
 Various links on various tech topics that I like
 
-Regex
-```
+# Regex
 [https://regexone.com/]
 
 [https://regexr.com/]
 
-```
 
-Best practice REST
+# Best practice REST
 
-```
 [https://reflectoring.io/rest-hypermedia/]
 
 [https://blogs.mulesoft.com/dev/api-dev/api-best-practices-hypermedia-part-1/]
 
-```
 
-Random cool links
+# Random cool links
 
-```
 [https://medium.com/programmers-blockchain/creating-your-first-blockchain-with-java-part-2-transactions-2cdac335e0ce]
 
 [https://simpleprogrammer.com/the-ultimate-list-of-programming-books/]
-```
 
-CI/CD
+# CI/CD
 
-```
 [https://github.com/semantic-release/semantic-release/tree/6b110b6e9eea801be87fe18e6860754f8f744ae0]
 
 [https://blog.philipphauer.de/tutorial-continuous-delivery-with-docker-jenkins/#Setting_up_a_Simple_Continuous_Delivery_Pipeline_with_Docker]
@@ -58,4 +51,3 @@ CI/CD
 [https://www.e-gineering.com/2016/02/02/gitflow-maven-and-ci-done-right-part-1-teaching-maven-new-tricks/]
 
 [https://www.e-gineering.com/2016/02/12/gitflow-maven-and-ci-done-right-part-2-bitbucket-server-jenkins-and-nexus-oss/]
-```
