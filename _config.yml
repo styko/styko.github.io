@@ -14,8 +14,8 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Styko dev diary
-  tagline: "Life is short, death is sure"
+  title: STYKO dev diary
+  tagline: "Life is short, death is sure and most obstacles are self-generated!"
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
