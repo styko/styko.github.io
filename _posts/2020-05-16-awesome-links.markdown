@@ -10,6 +10,8 @@ Various links on various tech topics that I like
 # Regex
 [https://regexone.com/]
 
+[[https://regexr.com/]]
+
 [https://regexone.com/]: https://regexone.com/
 
 [https://regexr.com/]: https://regexr.com/
