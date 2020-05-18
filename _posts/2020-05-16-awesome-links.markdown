@@ -8,19 +8,15 @@ categories: Tech Random
 Various links on various tech topics that I like
 
 # Regex
-[https://regexone.com/]
+[https://regexone.com/](https://regexone.com/)
 
 [https://regexr.com/](https://regexr.com/)
 
-[https://regexone.com/]: https://regexone.com/
-
-
-
 # Best practice REST
 
-[ https://reflectoring.io/rest-hypermedia/ ]
+(https://reflectoring.io/rest-hypermedia/)
 
-[ https://blogs.mulesoft.com/dev/api-dev/api-best-practices-hypermedia-part-1/ ]
+[](https://blogs.mulesoft.com/dev/api-dev/api-best-practices-hypermedia-part-1/)
 
 
 # Random cool links
