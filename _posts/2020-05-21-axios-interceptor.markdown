@@ -2,12 +2,12 @@
 layout: post
 title:  "Axios interceptor to convert ISO 8601 to Luxon datetime \ momentJs"
 description: Axios interceptor to convert ISO 8601 to Luxon datetime \ momentJs
-date:   2019-05-21 17:03:36 +0200
+date:   2020-05-21 17:03:36 +0200
 categories: Javascript Interceptor Luxon ISO8601
 ---
-I got tired of converting ISO 8601 dates as string when calling REST Endpoints with axios in some postprocessing of the response. Currently this is best solution that comes to my mind, but I have lot to learn about javascript, .. so please no hates:)
+I got tired of converting ISO 8601 dates as string when calling REST Endpoints with axios in some postprocessing of the response. Currently this is best solution that comes to my mind, but I have lot to learn about javascript, .. so please no hates :)
 
-Idea is to register a converter or interceptor to axios which recursivelly traverses response and replaces ISO 8601 strings to Luxon DateTime objects(or momentJS..).
+Idea is to register a converter or interceptor to axios which recursivelly traverses response and replaces ISO 8601 strings to Luxon DateTime objects(or MomentJS..).
 For performance reasons on large responses, it might be better to use keywords approach for matching the field rather than regex.
 
 isoConverter.js
@@ -52,7 +52,7 @@ export default {
 };
 ```
 
-Some test in Jest to check if its working.
+Tests in Jest to check if its working.
 ```javascript
 import { DateTime } from 'luxon';
 import isoConverter from '@/services/isoConverter';
